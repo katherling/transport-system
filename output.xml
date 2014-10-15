@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<trip cost="57.28040324805112$" duration="16 ч 21 м 56 с" from="Moskow (55.45, 37.99)" to="Minsk (53.54, 27.34)"><Vehicle name="Bus" speed="70.0" type="Ground"/><passengers><passenger Name="Алексеенко Алексей" Passport="MP1232456"/><passenger Name="Борисенко Борис" Passport="MС1234568"/><passenger Name="Вел Вел" Passport="ВЛ1232334"/></passengers><cargoList><cargo Name="Шкатулочка" Weight="20.0"/></cargoList></trip>
